@@ -1,1 +1,1 @@
-Lab expirements for ISM
+Lab expirements for Information security management 
